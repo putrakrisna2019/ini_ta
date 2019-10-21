@@ -1,0 +1,10 @@
+.warnab{
+	background-color: black;
+	color: white;
+}
+.body{
+ background-image: url("/image/background1.jpg");
+ width: 1319px;
+ height: 600px; 	
+ background-attachment: fixed;
+}
